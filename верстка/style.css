@@ -1,0 +1,24 @@
+.about {
+    background: #757272;
+    margin-top: 94px;
+    display: flex;
+    padding-top: 91px;
+    padding-bottom: 124px;
+    align-items: center;
+}
+
+.about h2 {
+    margin-bottom: 30px;
+}
+.about-block {
+    width: 450px;
+
+}
+.about-block p{
+    font-family: 'Gilroy-Medium';
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+}
+<div class="skills">
+.
